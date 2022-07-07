@@ -1,0 +1,5 @@
+# Create a neural network using pre-defined data
+  - create, in network class, a method for three types of layers:
+    - inicial layers
+    - hidden layers
+    - output layers
